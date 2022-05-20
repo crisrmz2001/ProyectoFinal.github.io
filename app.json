@@ -1,0 +1,56 @@
+[
+  {
+    "precio": 110190,
+    "id": 1,
+    "titulo": "Casco Integral Gp Carbono Ls2 323 Arrow C Negro",
+    "img": "../multimedia/casco1.jpg"
+  },
+  {
+    "precio": 80390,
+    "id": 2,
+    "titulo": "Casco Moto Gp Ls2 323 Arrow R Evo Techno Cuotas",
+    "img": "../multimedia/casco2.jpg"
+  },
+  {
+    "precio": 111790,
+    "id": 3,
+    "titulo": "Casco Moto Gp Carbono Ls2 323 Arrow Sting + Pinlock",
+    "img": "../multimedia/casco3.jpg"
+  },
+  {
+    "precio": 283000,
+    "id": 4,
+    "titulo": "Traje Moto Gp Compatible Con Marca Ducati Pista Yamaha",
+    "img": "../multimedia/traje1.jpg"
+  },
+  {
+    "precio": 280000,
+    "id": 5,
+    "titulo": "Equipo Traje Moto Compatible Marca Valentino Rossi Ducati",
+    "img": "../multimedia/traje2.jpg"
+  },
+  {
+    "precio": 46000,
+    "id": 6,
+    "titulo": "Guantes Valentino Rossi Vr 46 Moto Motocicleta Pista Gp",
+    "img": "../multimedia/guantes3.jpg"
+  },
+  {
+    "precio": 19765,
+    "id": 7,
+    "titulo": "Guantes Alpinestars SP-8 V3 Negro / Rojo Fluor",
+    "img": "../multimedia/guantes1.jpg"
+  },
+  {
+    "precio": 80000,
+    "id": 8,
+    "titulo": "Guantes Gp Plus Leather Glove Mg Bikes",
+    "img": "../multimedia/guantes2.jpg"
+  },
+  {
+    "precio": 36000,
+    "id": 9,
+    "titulo": "Guantes Cortos Alpinestars Guante GP Pro R2",
+    "img": "../multimedia/guantes4.jpg"
+  }
+]
